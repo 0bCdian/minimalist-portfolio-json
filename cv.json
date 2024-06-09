@@ -206,6 +206,7 @@
       "isActive": true,
       "description": "Gestor de fondos de pantalla para linux",
       "highlights": ["Wayland", "Open Source", "Wlroots"],
+      "github": "https://github.com/0bCdian/Waypaper-Engine",
       "url": "https://github.com/0bCdian/Waypaper-Engine"
     }
   ]
