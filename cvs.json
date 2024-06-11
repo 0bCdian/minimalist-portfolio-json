@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Diego Miguel Parra Nava",
-    "label": "Self-Taught Full Stack Developer and Open Source Enthusiast",
+    "label": "Full Stack Developer Autodidacta y Gran Apasionado Del Open Source",
     "image": "/me.webp",
     "email": "diegoparranava@protonmail.com",
     "phone": "+34 665620606",
     "url": "",
-    "summary": "Former electrical engineering student reinvented as a software developer with over 2 years of experience, living in Gijón, Spain. I have worked on small projects as a freelance backend developer in Python and Node.js, and maintain a small open source wallpaper management tool.",
+    "summary": "Ex estudiante de ingenieria eléctrica reinventado como desarollador de software con +2 años de experiencia, vivo en Gijón, España. He trabajado en pequeños proyectos como freelance backend en python y nodejs, y mantengo una pequeña herramienta para gestionar wallpapers open source.",
     "location": {
       "address": "",
       "postalCode": "33204",
       "city": "Gijón",
       "countryCode": "ES",
-      "region": "Spain"
+      "region": "España"
     },
     "profiles": [
       {
@@ -38,7 +38,7 @@
       "position": "Backend engineer",
       "startDate": "2024-02-12",
       "endDate": "2024-03-18",
-      "summary": "Developed the backend for the company's PowerBI document visualization website, using Express and TypeScript for the user login and permissions system.",
+      "summary": "Desarollé el backend para la web de visualización de documentos powerbi de la empresa, utilizando express y typescript para el sistema de login y permisos de usuarios.",
       "highlights": ["Started the company"]
     }
   ],
@@ -55,9 +55,9 @@
   ],
   "education": [
     {
-      "institution": "University of Zulia",
+      "institution": "Universidad del Zulia",
       "url": "http://www.luz.edu.ve/",
-      "area": "Electrical Engineering (Degree not completed)",
+      "area": "Ingeniero electricista (Grado sin terminar)",
       "studyType": "Bachelor",
       "startDate": "2013-02-04",
       "endDate": "2017-06-01",
@@ -94,33 +94,33 @@
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": ["Web Development", "Frontend"]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
-      "level": "Advanced",
+      "level": "Avanzado",
       "keywords": [
-        "Web Development",
+        "Desarrollo Web",
         "Frontend",
         "CSS Framework",
-        "Responsive Design"
+        "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Advanced",
+      "level": "Avanzado",
       "keywords": [
-        "Web Development",
+        "Desarrollo Web",
         "Frontend",
         "Backend",
         "JavaScript Superset"
@@ -128,29 +128,39 @@
     },
     {
       "name": "Node",
-      "level": "Advanced",
-      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "PostgreSQL",
-      "level": "Advanced",
-      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
     },
     {
       "name": "Git",
-      "level": "Advanced",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
       "name": "GitHub",
-      "level": "Advanced",
-      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
     },
     {
       "name": "Python",
-      "level": "Advanced",
+      "level": "Avanzado",
       "keywords": [
-        "Web Development",
+        "Desarrollo Web",
         "Frontend",
         "React Framework",
         "SSR",
@@ -159,12 +169,12 @@
     },
     {
       "name": "React",
-      "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Bash",
-      "level": "Advanced",
+      "level": "Avanzado",
       "keywords": ["Unix", "Linux", "Scripting"]
     }
   ],
@@ -194,8 +204,9 @@
     {
       "name": "Waypaper Engine",
       "isActive": true,
-      "description": "Wallpaper manager for Linux",
+      "description": "Gestor de fondos de pantalla para linux",
       "highlights": ["Wayland", "Open Source", "Wlroots"],
+      "github": "https://github.com/0bCdian/Waypaper-Engine",
       "url": "https://github.com/0bCdian/Waypaper-Engine"
     }
   ]
