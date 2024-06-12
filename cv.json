@@ -194,9 +194,21 @@
     {
       "name": "Waypaper Engine",
       "isActive": true,
-      "description": "Wallpaper manager for Linux",
-      "highlights": ["Wayland", "Open Source", "Wlroots"],
-      "url": "https://github.com/0bCdian/Waypaper-Engine"
+      "description": "Wallpaper manager for Linux, inspired in wallpaper engine.",
+      "highlights": [
+        "Wayland",
+        "Open Source",
+        "Electron",
+        "React",
+        "Typescript",
+        "Nodejs",
+        "Bash",
+        "DrizzleOrm",
+        "Sqlite",
+        "Tailwind"
+      ],
+      "url": "https://github.com/0bCdian/Waypaper-Engine",
+      "github": "https://github.com/0bCdian/Waypaper-Engine"
     }
   ]
 }
